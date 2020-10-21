@@ -10,6 +10,6 @@ dependencies:
 ...
     flutter_component:
         git:
-        url: https://github.com/sqsong66/flutter_component.git
+            url: https://github.com/sqsong66/flutter_component.git
 ...
 ```
